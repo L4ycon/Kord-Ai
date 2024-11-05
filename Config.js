@@ -1,7 +1,7 @@
 global.settings = {
     OWNER_NUMBERS: "2349022353327", // replace with your number
     OWNER_NAME: '𝙇𝙖𝙮𝙘𝙤𝙣', // desired name
-    BOT_NAME: "KORD", // desired name
+    BOT_NAME: "L4ycon", // desired name
     VERSION: 'V1.0.0',
     SESSION_ID: 'kord_ai-6729bcd115c7a0e648fb8905', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
