@@ -3,7 +3,7 @@ global.settings = {
     OWNER_NAME: '𝙇𝙖𝙮𝙘𝙤𝙣', // desired name
     BOT_NAME: "L4ycon", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: 'kord_ai-6729bcd115c7a0e648fb8905', //put your session id between ''
+    SESSION_ID: 'kord_ai-675bde704bfc56d75999fad5', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     TIME_ZONE: "Africa/Lagos",
